@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderadu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.JS and Next.JS
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web applications
 - 📫 Contact me at radu.gabi.m@gmail.com
