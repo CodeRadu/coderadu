@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @CodeRadu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on web applications
-- 📫 Contact me at radu.gabi.m@gmail.com
+[![Radu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeRadu)](https://github.com/anuraghazra/github-readme-stats)
